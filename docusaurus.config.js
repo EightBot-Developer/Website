@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'EightBotWeb',
+  tagline: 'EightBot is so great!',
   url: 'https://eightbot-developer.github.io',
   baseUrl: '/Website/',
   onBrokenLinks: 'throw',
@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'EightBot-Developer', // Usually your GitHub org/user name.
+  projectName: 'Website', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -57,17 +57,17 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'EightBot',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'EightBot logo',
+          src: 'img/logo.png',
         },
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'tutorial',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Botのチュートリアル',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -81,36 +81,36 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'ドキュメントなど',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Botのチュートリアル',
+                to: '/docs/tutorial/',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'コミュニティー',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Twitter',
+                href: 'https://twitter.com/eightbot1644',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.com/invite/e47A2KcY4j',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Youtube',
+                href: 'https://www.youtube.com/channel/UCzdJ4IaMWkxGACQGLiAJp5g',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'その他',
             items: [
               {
-                label: 'Blog',
+                label: 'ブログ',
                 to: '/blog',
               },
               {

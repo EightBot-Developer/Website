@@ -4,12 +4,12 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: '高速で、ダウンタイムがほぼありません。',
+    Svg: require('@site/static/img/1f4a8.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        昔のEightBot(1.x系)は低速で、ダウンタイムが結構な頻度でありましたが、
+        今のEightBot(2.x系)は昔と比べると、高速で、ダウンタイムがほぼなくなりました。
       </>
     ),
   },
