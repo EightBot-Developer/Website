@@ -204,8 +204,8 @@ discord内でyoutubeで検索できます。
      <td>start</td>
      <td>選択肢からアクティビティーを選ぶ</td>
      <td>アクティビティ(YouTubeなど)をスタートできます。</td>
-     <td>/start activity: 選択肢からアクティビティーを選ぶ</td
-      </tr>
+     <td>/start activity: 選択肢からアクティビティーを選ぶ</td>
+ </tr>
  <tr>
   <td>totusi</td>
   <td>text</td>
