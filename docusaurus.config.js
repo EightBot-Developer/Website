@@ -54,7 +54,7 @@ const config = {
   ],
   plugins: [
     [require.resolve('@cmfcmf/docusaurus-search-local'), {
-        language: "ja",
+        language: "en",
         lunr: {
           tokenizerSeparator: /[\s\-\u{3000}-\u{301C}\u{3041}-\u{3093}\u{309B}-\u{309E}]+/gu
         }
