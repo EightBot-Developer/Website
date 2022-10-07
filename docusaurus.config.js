@@ -63,12 +63,7 @@ const config = {
           src: 'img/logo.png',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'tutorial/start',
-            position: 'left',
-            label: 'Botのチュートリアル',
-          },
+          {to: '/docs/tutorial/start', label: 'Botチュートリアル', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
@@ -85,7 +80,7 @@ const config = {
             items: [
               {
                 label: 'Botのチュートリアル',
-                to: '/docs/tutorial/',
+                to: '/docs/tutorial/start',
               },
             ],
           },
