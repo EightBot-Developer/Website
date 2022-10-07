@@ -1,7 +1,9 @@
 ---
 sidebar_position: 1
+---
 
 # Botを導入する
+
 まずは、下のボタンをクリックしてください。<br>
 <a href="https://discord.com/api/oauth2/authorize?client_id=979877840382197790&permissions=1644971949559&scope=bot%20applications.commands"><img src="./img/start/invite.png" width="125" height="25" alt="Botを導入する"></a><br>
 そうしたら、以下のような画面になると思うので、<br>サーバーを選択をクリックしてサーバーを選択してください。<br>サーバーを選択したら、「はい」をクリック。<br>
