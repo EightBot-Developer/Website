@@ -65,7 +65,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'tutorial',
             position: 'left',
             label: 'Botのチュートリアル',
           },
@@ -85,7 +85,7 @@ const config = {
             items: [
               {
                 label: 'Botのチュートリアル',
-                to: '/docs/intro',
+                to: '/docs/tutorial/',
               },
             ],
           },
