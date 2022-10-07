@@ -54,13 +54,6 @@ const config = {
   ],
   plugins: [
     [require.resolve('@cmfcmf/docusaurus-search-local'), {
-        // whether to index docs pages
-        indexDocs: true,
-        docsRouteBasePath: '/docs',
-        indexDocSidebarParentCategories: 0,
-        indexBlog: true,
-        blogRouteBasePath: '/blog',
-        indexPages: false,
         language: "ja",
         lunr: {
           tokenizerSeparator: /[\s\-\u{3000}-\u{301C}\u{3041}-\u{3093}\u{309B}-\u{309E}]+/gu
