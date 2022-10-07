@@ -64,6 +64,7 @@ const config = {
         },
         items: [
           {to: '/docs/tutorial/start', label: 'Botチュートリアル', position: 'left'},
+          {to: '/docs/command_list', label: 'コマンドリスト', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',

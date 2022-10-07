@@ -7,7 +7,7 @@ sidebar_position: 1
 まずは、下のボタンをクリックしてください。
 
 
-<a href="https://discord.com/api/oauth2/authorize?client_id=979877840382197790&permissions=1644971949559&scope=bot%20applications.commands" ><img src="./img/start/invite.png" width="125" height="25" alt="Botを導入する" /></a>
+<a href="https://discord.com/api/oauth2/authorize?client_id=979877840382197790&permissions=1644971949559&scope=bot%20applications.commands" ><img src="https://user-images.githubusercontent.com/78240988/183604202-1fa54df9-0460-464f-ab0e-2649d5082f21.png" width="125" height="25" alt="Botを導入する" /></a>
 
 そうしたら、以下のような画面になると思うので、
 
