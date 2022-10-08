@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'EightBotWeb',
-  tagline: 'EightBot is so great!',
+  tagline: 'EightBotは高性能Botです。',
   url: 'https://eightbot-developer.github.io',
   baseUrl: '/Website/',
   onBrokenLinks: 'throw',
@@ -73,10 +73,11 @@ const config = {
         items: [
           {to: '/docs/tutorial/start', label: 'Botチュートリアル', position: 'left'},
           {to: '/docs/command_list', label: 'コマンドリスト', position: 'left'},
+          {to: '/docs/version/link', label: 'バージョンページへのリンク', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/EightBot-Developer/Website',
-            label: 'GitHub',
+            label: '<img src="https://github.githubassets.com/favicons/favicon.png" />',
             position: 'right',
           },
         ],
