@@ -77,7 +77,7 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/EightBot-Developer/Website',
-            image: 'https://github.githubassets.com/favicons/favicon.png',
+            className: 'header-github-link',
             position: 'right',
           },
         ],
