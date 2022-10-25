@@ -10,7 +10,6 @@ const config = {
   tagline: 'EightBotは高性能Botです。',
   url: 'https://8bot.f5.si',
   baseUrl: '/',
-  cname: '8bot.f5.si',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
