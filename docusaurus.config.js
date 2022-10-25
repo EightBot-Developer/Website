@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'EightBotWeb',
   tagline: 'EightBotは高性能Botです。',
-  url: 'https://eightbot-developer.github.io',
-  baseUrl: '/Website/',
+  url: 'https://8bot.f5.si',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
