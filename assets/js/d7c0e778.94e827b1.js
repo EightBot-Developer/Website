@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkeight_bot_web=self.webpackChunkeight_bot_web||[]).push([[759],{505:e=>{e.exports=JSON.parse('{"label":"welcome","permalink":"/Website/blog/tags/welcome","allTagsPath":"/Website/blog/tags","count":1}')}}]);

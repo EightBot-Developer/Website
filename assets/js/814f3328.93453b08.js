@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkeight_bot_web=self.webpackChunkeight_bot_web||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"EightBotWeb Blog\u3078\u3088\u3046\u3053\u305d","permalink":"/Website/blog/welcome"}]}')}}]);

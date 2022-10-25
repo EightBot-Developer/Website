@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://eightbot-developer.github.io/Website/blog</id>
+    <id>https://8bot.f5.si/blog</id>
     <title>EightBotWeb Blog</title>
     <updated>2022-10-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://eightbot-developer.github.io/Website/blog"/>
+    <link rel="alternate" href="https://8bot.f5.si/blog"/>
     <subtitle>EightBotWeb Blog</subtitle>
-    <icon>https://eightbot-developer.github.io/Website/img/favicon.ico</icon>
+    <icon>https://8bot.f5.si/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[EightBotWeb Blogへようこそ]]></title>
         <id>welcome</id>
-        <link href="https://eightbot-developer.github.io/Website/blog/welcome"/>
+        <link href="https://8bot.f5.si/blog/welcome"/>
         <updated>2022-10-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[EightBotの公式ブログです。]]></summary>
         <content type="html"><![CDATA[<p>EightBotの公式ブログです。
