@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://8bot.f5.si/blog</id>
     <title>EightBotWeb Blog</title>
-    <updated>2022-10-08T00:00:00.000Z</updated>
+    <updated>2022-11-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://8bot.f5.si/blog"/>
     <subtitle>EightBotWeb Blog</subtitle>
     <icon>https://8bot.f5.si/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[EightBot v2の進捗(1)]]></title>
+        <id>EightBotv2_sintyoku_1</id>
+        <link href="https://8bot.f5.si/blog/EightBotv2_sintyoku_1"/>
+        <updated>2022-11-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[コマンド数が15個になりました。]]></summary>
+        <content type="html"><![CDATA[<p>コマンド数が15個になりました。<br>
+<img loading="lazy" src="https://user-images.githubusercontent.com/78240988/199490515-72a37978-5eb4-4d59-97cf-50c365fb867d.png" alt="image" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>gx1285</name>
+            <uri>https://github.com/gx1285</uri>
+        </author>
+        <category label="EightBotv2" term="EightBotv2"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EightBotWeb Blogへようこそ]]></title>
         <id>welcome</id>
