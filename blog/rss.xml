@@ -4,10 +4,22 @@
         <title>EightBotWeb Blog</title>
         <link>https://8bot.f5.si/blog</link>
         <description>EightBotWeb Blog</description>
-        <lastBuildDate>Wed, 02 Nov 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Nov 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[EightBot v2の新機能などを紹介!!(1)]]></title>
+            <link>https://8bot.f5.si/blog/EightBot_v2_new_feature_01</link>
+            <guid>EightBot_v2_new_feature_01</guid>
+            <pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[5000コマンドの引数が増えたよ！]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="5000コマンドの引数が増えたよ">5000コマンドの引数が増えたよ！<a class="hash-link" href="#5000コマンドの引数が増えたよ" title="見出しへの直接リンク">​</a></h2><p><img loading="lazy" src="https://media.discordapp.net/attachments/1005340546614710312/1037603705668775956/image.png" alt="image" class="img_ev3q"><br>
+5種類のオプションを追加しました。</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="拾い画チェッカーを追加したよ">拾い画チェッカーを追加したよ！<a class="hash-link" href="#拾い画チェッカーを追加したよ" title="見出しへの直接リンク">​</a></h2><p><img loading="lazy" src="https://media.discordapp.net/attachments/1005340546614710312/1037603995981729802/image.png" alt="image" class="img_ev3q"><br>
+拾い画チェッカーAPIを使用したコマンドです。<br>
+まだBetaなので、200以外が帰ってきた処理を作って無いのはここだけの秘密()</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="そのほかにも色々増えたよ">そのほかにも色々増えたよ！<a class="hash-link" href="#そのほかにも色々増えたよ" title="見出しへの直接リンク">​</a></h2><p>では次の投稿で。</p>]]></content:encoded>
+            <category>EightBotv2</category>
+        </item>
         <item>
             <title><![CDATA[EightBot v2の進捗(1)]]></title>
             <link>https://8bot.f5.si/blog/EightBotv2_sintyoku_1</link>
