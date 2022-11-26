@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/tutorial/start">
-            Docusaurus Tutorial - 5min ⏱️
+            Botのチュートリアルを見る！
           </Link>
         </div>
       </div>
@@ -30,8 +30,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Home`}
+      description="EightBotの公式Webサイトです。">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
