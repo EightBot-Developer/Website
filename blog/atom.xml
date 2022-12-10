@@ -15,7 +15,8 @@
         <summary type="html"><![CDATA[ついにEightBot v2がリリースされましたが、バグが多すぎて、使い物になりません。]]></summary>
         <content type="html"><![CDATA[<p>ついにEightBot v2がリリースされましたが、バグが多すぎて、使い物になりません。<br>
 その為、本日12/10に緊急隠しアップデート、<code>2.1.0-beta-1</code>を適用しました。<br>
-<code>2.1.0-beta-1</code>は2.1.0の内容を入れたアップデートです。<br></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="変更点">変更点<a class="hash-link" href="#変更点" title="見出しへの直接リンク">​</a></h2><ul><li>bot_inviteが使えない問題を修正</li><li>5000兆円欲しい!をembedにした</li><li>コマンド回数記録システムが動いてなかった問題の修正</li><li>afkの登録などのメッセージをembedにし、非公開メッセージに変更</li><li>5000兆円欲しい!のURLをパーセントエンコードするようにした。</li><li>ban_memberの送信形式をembedにし、非公開メッセージに変更。(2.1.0-beta-2)</li></ul><p>出来るだけ早く2.1をリリースできるように頑張ります。</p>]]></content>
+<code>2.1.0-beta-1</code>は2.1.0の内容を入れたアップデートです。<br></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="変更点">変更点<a class="hash-link" href="#変更点" title="見出しへの直接リンク">​</a></h2><ul><li>bot_inviteが使えない問題を修正</li><li>5000兆円欲しい!をembedにした</li><li>コマンド回数記録システムが動いてなかった問題の修正</li><li>afkの登録などのメッセージをembedにし、非公開メッセージに変更</li><li>5000兆円欲しい!のURLをパーセントエンコードするようにした。</li><li>ban_memberの送信形式をembedにし、非公開メッセージに変更。(2.1.0-beta-2)</li></ul><p>出来るだけ早く2.1をリリースできるように頑張ります。<br>
+betaが付いていますが、安定版で動かしています。</p>]]></content>
         <author>
             <name>gx1285</name>
             <uri>https://github.com/gx1285</uri>
