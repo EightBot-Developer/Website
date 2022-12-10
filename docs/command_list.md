@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 ## コマンドの使い方
 [コマンド表](#コマンド表)<br />
