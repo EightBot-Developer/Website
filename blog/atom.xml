@@ -73,6 +73,10 @@ betaが付いていますが、安定版で動かしています。</p>]]></cont
             <name>curtain(かーてん)</name>
             <uri>https://github.com/curtainch</uri>
         </author>
+        <author>
+            <name>Dec-dog</name>
+            <uri>https://github.com/Dec-dog</uri>
+        </author>
         <category label="welcome" term="welcome"/>
     </entry>
 </feed>
