@@ -1,8 +1,8 @@
 {
-  "label": "バージョン履歴",
+  "label": "v2.2.x-v2.3.x",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "バージョン履歴"
+    "description": "v2.2.x-v2.3.x系のリリース"
   }
 }

@@ -19,7 +19,6 @@ const config = {
     defaultLocale: 'ja',
     locales: ['ja'],
   },
-  onBrokenLinks: "warn",
 
   presets: [
     [
