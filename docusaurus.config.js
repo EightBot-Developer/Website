@@ -68,7 +68,7 @@ const config = {
           {to: '/docs/command_list', label: 'コマンドリスト', position: 'left'},
           {to: '/docs/version/link', label: 'バージョンページへのリンク', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
-          {to: 'https://8bot.f5.si/terms-of-service/', label: '利用規約', position: 'left'},
+          {to: '/terms-of-service', label: '利用規約', position: 'left'},
           {
             href: 'https://github.com/EightBot-Developer/Website',
             className: 'header-github-link',
