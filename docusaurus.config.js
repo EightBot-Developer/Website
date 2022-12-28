@@ -69,6 +69,7 @@ const config = {
           {to: '/docs/version/link', label: 'バージョンページへのリンク', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/terms-of-service', label: '利用規約', position: 'left'},
+          {to: '/privacy-policy', label: 'プライバシーポリシー', position: 'left'},
           {
             href: 'https://github.com/EightBot-Developer/Website',
             className: 'header-github-link',
