@@ -131,7 +131,7 @@ const config = {
       },
       plugins: [
         'docusaurus-plugin-hubspot',
-      ]
+      ],
     }),
 };
 
