@@ -57,9 +57,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      hubspot: {
-        accountId: 23729336,
-      },
       navbar: {
         title: 'EightBot',
         logo: {
@@ -129,9 +126,6 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      plugins: [
-        'docusaurus-plugin-hubspot',
-      ],
     }),
 };
 
