@@ -1,11 +1,11 @@
-import React from 'react';
-import clsx from 'clsx';
-import styles from './styles.module.css';
+import React from "react";
+import clsx from "clsx";
+import styles from "./styles.module.css";
 
 const FeatureList = [
   {
-    title: '高速で、ダウンタイムがほぼありません。',
-    Svg: require('@site/static/img/1f4a8.svg').default,
+    title: "高速で、ダウンタイムがほぼありません。",
+    Svg: require("@site/static/img/1f4a8.svg").default,
     description: (
       <>
         昔のEightBot(1.x系)は低速で、ダウンタイムが結構な頻度でありましたが、
@@ -14,17 +14,15 @@ const FeatureList = [
     ),
   },
   {
-    title: '最新機能を使用している',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: "最新機能を使用している",
+    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
     description: (
-      <>
-        ボタンやセレクトメニューなどの機能をなるべく使うようになりました。
-      </>
+      <>ボタンやセレクトメニューなどの機能をなるべく使うようになりました。</>
     ),
   },
   {
-    title: '便利機能が少しづつ増えている',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: "便利機能が少しづつ増えている",
+    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
       <>
         あまり必要ではない機能から必要な機能まであり、これらの機能は日々追加されています。
@@ -33,9 +31,9 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx("col col--4")}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>

@@ -1,4 +1,4 @@
 # Website
 
-EightBot公式Webサイトです。<br>
-Docusaurus v2を使用しています。
+EightBot 公式 Web サイトです。<br>
+Docusaurus v2 を使用しています。
