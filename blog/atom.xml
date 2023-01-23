@@ -12,11 +12,11 @@
         <id>release_v2</id>
         <link href="https://8bot.f5.si/blog/release_v2"/>
         <updated>2022-12-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ついにEightBot v2がリリースされましたが、バグが多すぎて、使い物になりません。]]></summary>
-        <content type="html"><![CDATA[<p>ついにEightBot v2がリリースされましたが、バグが多すぎて、使い物になりません。<br>
-その為、本日12/10に緊急隠しアップデート、<code>2.1.0-beta-1</code>を適用しました。<br>
-<code>2.1.0-beta-1</code>は2.1.0の内容を入れたアップデートです。<br></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="変更点">変更点<a class="hash-link" href="#変更点" title="見出しへの直接リンク">​</a></h2><ul><li>bot_inviteが使えない問題を修正</li><li>5000兆円欲しい!をembedにした</li><li>コマンド回数記録システムが動いてなかった問題の修正</li><li>afkの登録などのメッセージをembedにし、非公開メッセージに変更</li><li>5000兆円欲しい!のURLをパーセントエンコードするようにした。</li><li>ban_memberの送信形式をembedにし、非公開メッセージに変更。(2.1.0-beta-2)</li></ul><p>出来るだけ早く2.1をリリースできるように頑張ります。<br>
-betaが付いていますが、安定版で動かしています。</p>]]></content>
+        <summary type="html"><![CDATA[ついに EightBot v2 がリリースされましたが、バグが多すぎて、使い物になりません。]]></summary>
+        <content type="html"><![CDATA[<p>ついに EightBot v2 がリリースされましたが、バグが多すぎて、使い物になりません。<br>
+その為、本日 12/10 に緊急隠しアップデート、<code>2.1.0-beta-1</code>を適用しました。<br>
+<code>2.1.0-beta-1</code>は 2.1.0 の内容を入れたアップデートです。<br></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="変更点">変更点<a class="hash-link" href="#変更点" title="見出しへの直接リンク">​</a></h2><ul><li>bot_invite が使えない問題を修正</li><li>5000 兆円欲しい!を embed にした</li><li>コマンド回数記録システムが動いてなかった問題の修正</li><li>afk の登録などのメッセージを embed にし、非公開メッセージに変更</li><li>5000 兆円欲しい!の URL をパーセントエンコードするようにした。</li><li>ban_member の送信形式を embed にし、非公開メッセージに変更。(2.1.0-beta-2)</li></ul><p>出来るだけ早く 2.1 をリリースできるように頑張ります。<br>
+beta が付いていますが、安定版で動かしています。</p>]]></content>
         <author>
             <name>gx1285</name>
             <uri>https://github.com/gx1285</uri>
@@ -28,11 +28,11 @@ betaが付いていますが、安定版で動かしています。</p>]]></cont
         <id>EightBot_v2_new_feature_01</id>
         <link href="https://8bot.f5.si/blog/EightBot_v2_new_feature_01"/>
         <updated>2022-11-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[5000コマンドの引数が増えたよ！]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="5000コマンドの引数が増えたよ">5000コマンドの引数が増えたよ！<a class="hash-link" href="#5000コマンドの引数が増えたよ" title="見出しへの直接リンク">​</a></h2><p><img loading="lazy" src="https://media.discordapp.net/attachments/1005340546614710312/1037603705668775956/image.png" alt="image" class="img_ev3q"><br>
-5種類のオプションを追加しました。</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="拾い画チェッカーを追加したよ">拾い画チェッカーを追加したよ！<a class="hash-link" href="#拾い画チェッカーを追加したよ" title="見出しへの直接リンク">​</a></h2><p><img loading="lazy" src="https://media.discordapp.net/attachments/1005340546614710312/1037603995981729802/image.png" alt="image" class="img_ev3q"><br>
-拾い画チェッカーAPIを使用したコマンドです。<br>
-まだBetaなので、200以外が帰ってきた処理を作って無いのはここだけの秘密()</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="そのほかにも色々増えたよ">そのほかにも色々増えたよ！<a class="hash-link" href="#そのほかにも色々増えたよ" title="見出しへの直接リンク">​</a></h2><p>では次の投稿で。</p>]]></content>
+        <summary type="html"><![CDATA[5000 コマンドの引数が増えたよ！]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="5000-コマンドの引数が増えたよ">5000 コマンドの引数が増えたよ！<a class="hash-link" href="#5000-コマンドの引数が増えたよ" title="見出しへの直接リンク">​</a></h2><p><img loading="lazy" src="https://media.discordapp.net/attachments/1005340546614710312/1037603705668775956/image.png" alt="image" class="img_ev3q"><br>
+5 種類のオプションを追加しました。</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="拾い画チェッカーを追加したよ">拾い画チェッカーを追加したよ！<a class="hash-link" href="#拾い画チェッカーを追加したよ" title="見出しへの直接リンク">​</a></h2><p><img loading="lazy" src="https://media.discordapp.net/attachments/1005340546614710312/1037603995981729802/image.png" alt="image" class="img_ev3q"><br>
+拾い画チェッカー API を使用したコマンドです。<br>
+まだ Beta なので、200 以外が帰ってきた処理を作って無いのはここだけの秘密()</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="そのほかにも色々増えたよ">そのほかにも色々増えたよ！<a class="hash-link" href="#そのほかにも色々増えたよ" title="見出しへの直接リンク">​</a></h2><p>では次の投稿で。</p>]]></content>
         <author>
             <name>gx1285</name>
             <uri>https://github.com/gx1285</uri>
@@ -44,8 +44,8 @@ betaが付いていますが、安定版で動かしています。</p>]]></cont
         <id>EightBotv2_sintyoku_1</id>
         <link href="https://8bot.f5.si/blog/EightBotv2_sintyoku_1"/>
         <updated>2022-11-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[コマンド数が15個になりました。今後の進捗をお楽しみに]]></summary>
-        <content type="html"><![CDATA[<p>コマンド数が15個になりました。今後の進捗をお楽しみに<br>
+        <summary type="html"><![CDATA[コマンド数が 15 個になりました。今後の進捗をお楽しみに]]></summary>
+        <content type="html"><![CDATA[<p>コマンド数が 15 個になりました。今後の進捗をお楽しみに<br>
 <img loading="lazy" src="https://user-images.githubusercontent.com/78240988/199490515-72a37978-5eb4-4d59-97cf-50c365fb867d.png" alt="image" class="img_ev3q"></p>]]></content>
         <author>
             <name>gx1285</name>
@@ -58,8 +58,8 @@ betaが付いていますが、安定版で動かしています。</p>]]></cont
         <id>welcome</id>
         <link href="https://8bot.f5.si/blog/welcome"/>
         <updated>2022-10-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[EightBotの公式ブログです。]]></summary>
-        <content type="html"><![CDATA[<p>EightBotの公式ブログです。
+        <summary type="html"><![CDATA[EightBot の公式ブログです。]]></summary>
+        <content type="html"><![CDATA[<p>EightBot の公式ブログです。
 最新情報などをアップしていけたらと思います。</p>]]></content>
         <author>
             <name>EightBot Developers</name>
